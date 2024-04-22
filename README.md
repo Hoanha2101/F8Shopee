@@ -27,7 +27,7 @@ Special thanks to [F8](https://fullstack.edu.vn/) for their invaluable tutorials
 
 You can preview my website below or visit [F8Shopee](https://hoanha2101.github.io/F8Shopee/) for a more comprehensive view.
 
-<img src="illustration/F8shopee.png">
+<img src="illustration/F8Shopee.png">
 
 ## Contact Information
    - UI Specialist: Ha Khai Hoan
